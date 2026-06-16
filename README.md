@@ -7,14 +7,11 @@
 ### 🚀 Full Stack Developer • AI Builder • Startup Enthusiast
 
 <p>
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/sanketsdeore/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:sanketsdeore@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 </p>
 
@@ -143,7 +140,7 @@ Research-driven deepfake detection system using XceptionNet and Grad-CAM with ex
 
 # 🐍 Contribution Snake
 
-![Snake animation](https://github.com/sanketsdeore/sanketsdeore/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/sanketsdeore/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
