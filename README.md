@@ -140,7 +140,7 @@ Research-driven deepfake detection system using XceptionNet and Grad-CAM with ex
 
 # 🐍 Contribution Snake
 
-![Snake animation](https://github.com/sanketsdeore/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/sanketsdeore/sanketsdeore/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
