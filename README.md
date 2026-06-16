@@ -122,7 +122,6 @@ Research-driven deepfake detection system using XceptionNet and Grad-CAM with ex
 
 # 🌱 Currently Learning
 
-* Data Structures & Algorithms (Striver Sheet)
 * AWS Cloud Fundamentals
 * Docker & CI/CD
 * System Design Fundamentals
